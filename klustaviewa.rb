@@ -2,8 +2,8 @@ require 'formula'
 
 class Klustaviewa < Formula
   homepage 'http://klusta-team.github.io/klustaviewa/'
-  url 'http://klustaviewa.rossant.net/klustaviewa-0.1.0.dev.zip'
-  sha1 'ddccd0b46757e38ba1518910028cbe9436db1561'
+  url 'https://github.com/klusta-team/klustaviewa/archive/v0.1.0.zip'
+  sha256 '9bc1a9f10084f77adfd354fb00d07f5870fc5fdc06b7c6e70fbc6c5bee7ae32c'
   head 'https://github.com/klusta-team/klustaviewa.git'
 
   depends_on 'qt'
